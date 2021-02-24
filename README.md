@@ -3,5 +3,5 @@
 ### CVE-2021-2086
 VirtualBox - Divide By Zero Vulnerability (Denial of Service)
 
-### CVE-2021-27550
+### CVE-2021-27550 with sqrtrev
 Polaris Office - Divide By Zero Vulnerability (Denial of Service) by Merona-Hunters
