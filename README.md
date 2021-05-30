@@ -1,6 +1,8 @@
 # CVE
 
-### CVE-2021-2086
+## Researcher : DoHyun Lee
+
+### CVE-2021-2086 [ VirtualBoBs ]
 VirtualBox - Divide By Zero Vulnerability (Denial of Service)
 
 ### CVE-2021-27550 with sqrtrev [ Merona-Hunters ]
